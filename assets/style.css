@@ -1,0 +1,51 @@
+/**** slider ****/
+#testimonial-slider {
+    border: 1px solid rgba(0,0,0,0.15);;
+    box-shadow:2px 2px 14px rgba(0,0,0,0.25);
+}
+#testimonial-slider, ul
+{
+	height: 220px;
+}
+
+#testimonial-slider li
+{
+	height: 220px;
+}
+
+#testimonial-slider ul
+{
+
+  font-family: century gothic;
+  color: #666;
+}
+
+/*** Content ***/
+
+.testimonial-slider-container
+{
+  min-height: 170px;
+  border-bottom: 1px solid #ccc;
+  background-color:white;
+  padding: 20px;
+  margin-top:20px;
+  margin-left:20px;
+  margin-right:20px;
+}
+
+.testimonial-slider-container h4
+{
+ 	color: #0A7FAD;
+     text-transform: uppercase;
+  text-shadow: -1px 0px 0px rgba(0, 0, 0, 0.50);
+}
+
+.testimonial-slider-container  p
+{
+	margin: 10px 25px;
+	font-weight: semi-bold;
+	line-height: 150%;
+	text-align: justify;
+}
+
+
